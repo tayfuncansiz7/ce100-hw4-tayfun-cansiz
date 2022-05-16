@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "237ead96-47df-411e-be15-4369d1983973": {
+      "ProjectGuid": "237ead96-47df-411e-be15-4369d1983973",
+      "DisplayName": "ce100-hw4-algo-lib-cs",
+      "ColorIndex": 0
+    },
+    "54f830ce-9cdc-4c9a-b490-e8e512129f93": {
+      "ProjectGuid": "54f830ce-9cdc-4c9a-b490-e8e512129f93",
+      "DisplayName": "ce100-hw4-algo-test-cs",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
